@@ -305,6 +305,13 @@ Used to power [grsly](https://grsly.com/), a tool for learning Japanese grammar.
 
   Rhythm Word implements FSRS-4.5 for intelligent review scheduling.
 
+#### [Rolko](https://www.rolko.xyz/)
+
+  Rolko is a web app and Chrome extension for reading supported webpage text with word lookup and reviewing saved vocabulary.
+
+- Saved-word reviews use [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs).
+- Basic lookup is free; saving new words requires a paid plan. Previously saved words remain available to review on Free.
+
 #### [Word2Sentence](https://github.com/ArabidopsisDev/Word2Sentence)
 
 Word2Sentence is a local-first Windows desktop app for learning vocabulary through sentence production. AI generates multilingual writing scenarios, provides inline feedback and post-answer usage cards, and automatically evaluates target-word recall without self-rating buttons.
